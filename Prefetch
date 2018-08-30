@@ -1,0 +1,5 @@
+#This is an easy way to get data from NCBI using SRA toolkit: https://www.ncbi.nlm.nih.gov/books/NBK158900/
+module available sra
+module load sratoolkit/2.8.1
+prefetch SRR1620016
+prefetch SRR1622814
